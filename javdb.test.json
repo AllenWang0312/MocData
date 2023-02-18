@@ -1,0 +1,24 @@
+{
+	"name": "JavDB",
+	"identifier": "com.example.astarte-prod1",
+	"apps": [{
+		"name": "JavDB",
+		"bundleIdentifier": "com.example.astarte-prod1",
+		"developerName": "javdb",
+		"subtitle": "Online Information source for adult movies.",
+		"version": "1.9.14",
+		"versionDate": "2022-10-17",
+		"versionDescription": "English\n• Fixed the preview video replay issue.\n• Fixed the no progress display issue for offline download.\n• Other issues fixed and optimized.\n\nChinese\n• 修復預覽視頻續播問題\n• 修復離線下載沒有進度顯示問題\n• 其他問題修正和優化",
+		"downloadURL": "https://github.com/bdvajstudio/javdb/releases/download/v1.9.14/jdb_official_v1.9.14.ipa",
+		"localizedDescription": "JavDB, the most comprehensive online database of adult videos, and you can search and view all of adult videos in Japan with Censored, Uncensored, Western, Anime and FC2.",
+		"iconURL": "https://jav.app/img/logo.5a6a7422.png",
+		"tintColor": "#c026c0",
+		"size": 11900000,
+		"screenshotURLs": [
+			"https://jav.app/img/screenshot.ba80a5ca.png",
+			"https://jav.app/img/screenshot02.da2bf57a.png",
+			"https://jav.app/img/screenshot03.d12cebb2.png",
+			"https://jav.app/img/screenshot05.b0b566d9.png"
+		]
+	}]
+}
